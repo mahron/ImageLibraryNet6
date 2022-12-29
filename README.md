@@ -1,8 +1,4 @@
-# ImageLibraryNet6
-
-This library is based on https://github.com/fschultz/NetImageLibrary. I just recompiled it with net6 framework.
-
-All rights belongs to it's original author.
+# .Net Image Library
 
 .NET library for easy image handling like:
   * Filters
@@ -35,3 +31,4 @@ If you plan using this library with WPF or simular, read this post on <a href="h
 
 **1.0.0**
   * recompiled with net6
+
